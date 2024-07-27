@@ -1,3 +1,5 @@
+<!--
+
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
 	<channel>
 		<title>Journey to the Cloth</title>
@@ -24,19 +26,19 @@
 		
 		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
 
-
+				<!-- Whoever is next 
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>48</itunes:episode>
 			<title>The Taxi is There, It&#39;s Waiting for Us: Life in UA&#38;P With X Vallez</title>
-			<description>Today in the cas garden, X Vallez talks about his life in UAP. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<description>Today in the cas garden, X Vallez talks about his life in UA&P. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
 			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
 			<enclosure
 				length="11356776" 
 				type="audio/mpeg" 
-				url="https://drive.google.com/uc?export=download&id=1BpVOx-cfV6fyrDMjqAnCDGr3R87d4Ng5" />
-			<guid isPermaLink="false">https://drive.google.com/uc?export=download&id=1BpVOx-cfV6fyrDMjqAnCDGr3R87d4Ng5</guid>
+				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
+			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
 			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
@@ -48,7 +50,7 @@
 		</item>		
 		
 		
-	
+		-->	
 		
 	
 	</channel>
@@ -56,3 +58,4 @@
 
 
 
+-->
