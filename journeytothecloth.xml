@@ -1,5 +1,3 @@
-<!--
-
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
 	<channel>
 		<title>Journey to the Cloth</title>
@@ -26,7 +24,7 @@
 		
 		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
 
-				<!-- Whoever is next 
+				<!-- Whoever is next -->
 		
 		<item>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -37,8 +35,8 @@
 			<enclosure
 				length="11356776" 
 				type="audio/mpeg" 
-				url="https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3" />
-			<guid isPermaLink="false">https://archive.org/download/20240121xvallezp1/20240121xvallezp1.mp3</guid>
+				url="https://download1509.mediafire.com/3t3dsklk8kigusDg457hkdV0QfJ9MuJ1UpuPCFdOvlAwoP3uFxN1VtH8wGOCzmEKRwZLjOTCHGoHGc3exFOcwroOGfsOcJloIt_QDpxaLXUoakBIcqOJeYS7lQ2Ci8nHKFOF_i_y6p1RfEyWV36J50Aov4cy3ve96a527VdwTAo/m1tirb9hzge5ir5/20240121xvallezp2.mp3" />
+			<guid isPermaLink="false">https://download1509.mediafire.com/3t3dsklk8kigusDg457hkdV0QfJ9MuJ1UpuPCFdOvlAwoP3uFxN1VtH8wGOCzmEKRwZLjOTCHGoHGc3exFOcwroOGfsOcJloIt_QDpxaLXUoakBIcqOJeYS7lQ2Ci8nHKFOF_i_y6p1RfEyWV36J50Aov4cy3ve96a527VdwTAo/m1tirb9hzge5ir5/20240121xvallezp2.mp3</guid>
 			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
@@ -50,12 +48,10 @@
 		</item>		
 		
 		
-		-->	
+		
 		
 	
 	</channel>
 </rss>
 
 
-
--->
