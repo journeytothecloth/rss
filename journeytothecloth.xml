@@ -1,1 +1,60 @@
-feed
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+	<channel>
+		<title>Journey to the Cloth</title>
+		<link>http://example.com</link>
+		<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s1600/ampersand.png"/>
+		<atom:link href="https://journeytothecloth.github.io/rss/journeytothecloth.xml" rel="self" type="application/rss+xml"/>
+		<language>en-us</language>
+		<copyright>Ling Escalante &amp; joao atienza</copyright>
+		<itunes:author>Ling Escalante &amp; joao atienza</itunes:author>
+		<podcast:person role="host">Ling Escalante</podcast:person>  
+		<podcast:person role="host">joao atienza</podcast:person>
+		<description>Stories about vocation and ministry</description>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:email>journeytothecloth@gmail.com</itunes:email>
+			<itunes:name>Ling Escalante &amp; joao atienza</itunes:name>
+		</itunes:owner>
+		<itunes:category text="Religion &amp; Spirituality"><itunes:category text="Christianity" />
+		</itunes:category>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:image href="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s1600/ampersand.png"/>
+		<itunes:keywords></itunes:keywords>
+		<itunes:subtitle>Stories about vocation and ministry</itunes:subtitle>
+		
+		<!--If you've found this, hello. welcome to the guts of the podcast. Here's where you'll find some of the upcoming episodes and plans and whatnot.-->
+
+
+		
+		<item>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>48</itunes:episode>
+			<title>The Taxi is There, It&#39;s Waiting for Us: Life in UA&#38;P With X Vallez</title>
+			<description>Today in the cas garden, X Vallez talks about his life in UAP. Shownotes at <![CDATA[ <a href="http://channelfourteen.com">http://channelfourteen.com</a> ]]></description>
+			<media:thumbnail url="https://1.bp.blogspot.com/-NngtvDyfs5o/YJMoHwNv4HI/AAAAAAAABAc/JCEhw4yBpVIV1xAKa7FRwYMUDxmTi0VLgCLcBGAsYHQ/s2048/ampersand.png" height="512" width="512" />
+			<enclosure
+				length="11356776" 
+				type="audio/mpeg" 
+				url="https://drive.google.com/uc?export=download&id=1BpVOx-cfV6fyrDMjqAnCDGr3R87d4Ng5" />
+			<guid isPermaLink="false">https://drive.google.com/uc?export=download&id=1BpVOx-cfV6fyrDMjqAnCDGr3R87d4Ng5</guid>
+			<pubDate>Sun, 10 March 2024 03:00:00 PDT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+			<psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+				<psc:chapter start="0" title="Welcome" />
+				<psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
+				<psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
+				<psc:chapter start="12:42" title="Resumée" />
+			</psc:chapters>			
+		</item>		
+		
+		
+	
+		
+	
+	</channel>
+</rss>
+
+
+
